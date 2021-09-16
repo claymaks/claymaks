@@ -12,7 +12,7 @@
 
 ### Github Stats
 <a href="https://github.com/claymaks/claymaks">
-  <img align="center" src="https://github-readme-stats-claymaks.vercel.app/api/top-langs/?username=claymaks&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&exclude_repo=flask_test,motor_interface,eecs367" alt="Clay's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-claymaks.vercel.app/api/top-langs/?username=claymaks&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&exclude_repo=flask_test,motor_interface,eecs367" alt="Clay's GitHub Stats" />
 </a>
 
 ---
