@@ -10,13 +10,15 @@
   <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://cmaks.dev/">
 </p>
 
-<br>
-
-
-
 <a href src="https://dribbble.com/shots/9078494-Developer">
   <img align="right" src="rafal-bogdan.gif" width="50%">
 </a>
+
+<br><br>
+
+
+
+
 
 🎓 Studying Computer Science at the University of Michigan (2022)  
 
