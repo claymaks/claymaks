@@ -3,11 +3,11 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-cmaks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmaks/">
+  <a href="https://www.linkedin.com/in/cmaks/"><img src="https://img.shields.io/badge/-cmaks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cmaks/"></a>
 
-  <img src="https://img.shields.io/github/followers/claymaks?label=follow&style=social">
+  <a href="https://github.com/claymaks"><img src="https://img.shields.io/github/followers/claymaks?label=follow&style=social"></a>
 
-  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://cmaks.dev/">
+  <a href="http://cmaks.dev/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://cmaks.dev/"></a>
 </p>
 
 <a href src="https://dribbble.com/shots/9078494-Developer">
