@@ -20,7 +20,7 @@
 
 🎓 Studying Computer Science at the University of Michigan (2022)  
 
-🚗 Currently: Software Engineering Intern at Waymo (Systems Engineering, Integrated Systems Testing).  
+🚗 Currently: Software Engineer at Waymo (Systems Test Automation Software). 
 
 🤖 Previously: Software Engineer at Fisher Dynamics leading autonomously guided robot project. Developed a low-cost system for moving parts around factories.
 
