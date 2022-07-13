@@ -17,11 +17,10 @@
 
 
 
-
-🎓 Studying Computer Science at the University of Michigan (2022)  
-
 🚗 Currently: Software Engineer at Waymo (Systems Test Automation Software). 
 
 🤖 Previously: Software Engineer at Fisher Dynamics leading autonomously guided robot project. Developed a low-cost system for moving parts around factories.
+
+🎓 Studied Computer Science at the University of Michigan (2022)  
 
 <img align="center" src="github-user-contribution.svg"/>
